@@ -1,0 +1,2 @@
+release/desktop/* filter=lfs diff=lfs merge=lfs -text
+release/browser/* filter=lfs diff=lfs merge=lfs -text

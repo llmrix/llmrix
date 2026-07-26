@@ -1,0 +1,15 @@
+# OS X
+.DS_Store
+
+# IDEs
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Temporary files
+*.log
+*.tmp
+*.swp
+
+# Release binaries (desktop and browser binaries are tracked via Git LFS, see .gitattributes)
