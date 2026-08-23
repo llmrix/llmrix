@@ -12,6 +12,22 @@
   💡<h3> "Empower AI with long-term memory; release code with autonomous life."</h3>
 </div>
 
+#### 🖥️ Desktop — LLmrix Athena
+
+Efficient, honest and transparent — your trustworthy personal AI assistant and Agent Runtime Harness. Code generation, report writing, web scraping, scheduled tasks, and a Skill Market in one desktop workspace.
+
+<div align="center">
+  <img src="images/desktop.png" alt="LLmrix Athena Desktop" width="100%"/>
+</div>
+
+#### 🌐 Web — LLMRIX Cloud
+
+Cloud-native agent orchestration — unify agents, models & channels. Browse and run Smart Apps from the Market, manage knowledge with Datasets, and collaborate across Solo & Team workflows.
+
+<div align="center">
+  <img src="images/browser.png" alt="LLMRIX Web" width="100%"/>
+</div>
+
 ----
 
 ### 📥 Downloads
