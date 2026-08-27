@@ -36,7 +36,7 @@ Cloud-native agent orchestration — unify agents, models & channels. Browse and
 
 |             | **Firefox**                                                                            | **Edge**                                                                                                                | **Chrome**                                    |
 |:------------|:---------------------------------------------------------------------------------------|:------------------------------------------------------------------------------------------------------------------------|:----------------------------------------------|
-| **Download** | [Add-on Store](https://addons.mozilla.org/en-US/firefox/addon/llmrix-harness-agent/) | [Add-on Store](https://microsoftedge.microsoft.com/addons/detail/llmrix-herness-agent/hgdimjeddbamfgfohleecpannndlhppc/) | [v1.0.4 .zip](release/browser/llmrix-harness-agent-v1.0.4-chrome.zip) |
+| **Download** | [Add-on Store](https://addons.mozilla.org/en-US/firefox/addon/llmrix-harness-agent/) | [Add-on Store](https://microsoftedge.microsoft.com/addons/detail/llmrix-herness-agent/hgdimjeddbamfgfohleecpannndlhppc/) | [Add-on Store](https://chromewebstore.google.com/detail/llmrix-harness-agent/apkpgecidknjflmpbccifdfeafeboena) |
 
 #### 🖥️ Desktop App — LLmrix Athena v0.1.0
 
